@@ -9,3 +9,5 @@ I like programming and computers,
 and videogames.
 
 Hopefully, I will accept this pull request.
+
+This was a small section about me!
